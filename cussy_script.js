@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Hasan r/Place
+// @name         Hasan r/Place Cussy New
 // @namespace    https://www.reddit.com/r/Place/
 // @version      1.0.5
 // @description  Place template script
